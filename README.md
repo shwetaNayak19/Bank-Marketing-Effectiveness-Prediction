@@ -6,7 +6,7 @@ Tags: Data Science, Data Analysis, Machine Learning, Logistics regression, Class
 
 ![image](https://user-images.githubusercontent.com/105973170/190308939-c830f19b-90c2-46c6-ae40-8a1aa3bd6a90.png)
 
-#Summary
+# Summary
 
 The data is related with direct marketing campaigns (phone calls) of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed. The classification goal is to predict if the client will subscribe a term deposit (variable y).
 
